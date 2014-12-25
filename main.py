@@ -1,6 +1,6 @@
 import os
 
-def main:
+def main():
 	print "MY NAME IS MASON LOLZ"
 	print "I AM CHUBCHUB LOLOLOL"
 
